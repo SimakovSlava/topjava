@@ -3,6 +3,7 @@ package ru.javawebinar.topjava.web.user;
 import org.springframework.stereotype.Controller;
 import ru.javawebinar.topjava.model.User;
 
+import java.util.Collection;
 import java.util.List;
 
 @Controller
